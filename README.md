@@ -1,6 +1,10 @@
-# Arewa Data Science Academy: Deep Learning with PyTorch
+<p align="center">
+<img src="assets/arewadsimage.png">
+</p>
 
-## Table of Contents
+ArewaDS website: https://arewadatascience.github.io
+
+## Table of Contents (Arewa DL)
 1. [Course Overview](#course-overview)
 2. [Objectives](#objectives)
 3. [Joining the Fellowship](#joining-the-fellowship)
@@ -14,7 +18,8 @@
    - [Part 2: Natural Language Processing with PyTorch](#part-2-natural-language-processing-with-pytorch)
 10. [References](#references)
 
-## Course Overview
+#  Arewa Deep Learning with Pytorch Curriculum!
+
 Welcome to the Deep Learning Course at Arewa Data Science Academy! This comprehensive course introduces you to deep learning, focusing on PyTorch, Natural Language Processing (NLP), and Computer Vision. Combining in-depth theoretical concepts with practical application, it's tailored for beginners and those looking to enhance their knowledge in AI.
 
 ### Objectives:
