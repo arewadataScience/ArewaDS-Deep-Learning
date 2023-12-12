@@ -26,9 +26,10 @@ Welcome to the Deep Learning Course at Arewa Data Science Academy! This comprehe
 Applications for Cohort 1.0 are closed, but you're welcome to join our sessions and access materials for self-study. Stay updated on future cohorts via our social media and Telegram group.
 
 ### Contact & Community:
-- [Website](https://arewadatascience.github.io)
-- [Email](mailto:arewadatascience@gmail.com)
+- Website: [Arewa Data Science Official Website](https://arewadatascience.github.io)
+- Email: [arewadatascience@gmail.com](mailto:arewadatascience@gmail.com)
 - [Twitter](https://twitter.com/arewadatascience) | [Facebook](https://www.facebook.com/arewadatascience) | [LinkedIn](https://www.linkedin.com/company/arewadatascience) | [YouTube](https://www.youtube.com/@arewadatascienceacademy7195/videos) | [Telegram](https://t.me/+vGZvQdggp1A4NzNk)
+
 
 ## Welcome to Cohort 1.0 ArewaDS Deep Learning with PyTorch Fellowship
 Welcome to ArewaDS Deep Learning with Pytorch Cohort 1.0! Our fellowship offers a structured path to mastering both fundamentals and advanced concepts in deep learning.
