@@ -46,15 +46,5 @@ Explore NLP techniques using PyTorch, guided by the renowned Stanford course, CS
   - Building a Neural Machine Translation System
   - Creating an NLP-powered Chatbot
 
-### Additional Resources
-- Interactive forums for collaboration and discussions.
-- Weekly guest lectures from industry professionals.
-- Comprehensive digital library with learning resources and research papers.
-
-## Assessment and Certification
-- Periodic quizzes and practical assignments.
-- Final capstone project showcasing learned skills.
-- Official Certificate of Completion from Arewa Data Science Academy.
-
-## Enrollment
-Begin your deep learning adventure today! For more information and to apply, visit our [enrollment page](#).
+### References
+- Deep Learning with PyTorch
