@@ -1,15 +1,59 @@
-# Arewa Data Science Academy: Deep Learning Course with PyTorch
+# Arewa Data Science Academy: Deep Learning with PyTorch
+
+## Table of Contents
+1. [Course Overview](#course-overview)
+2. [Objectives](#objectives)
+3. [Joining the Fellowship](#joining-the-fellowship)
+4. [Contact & Community](#contact--community)
+5. [Welcome to Cohort 1.0](#welcome-to-cohort-10)
+6. [Graduation Requirements](#graduation-requirements)
+7. [Fellowship Kickoff](#fellowship-kickoff)
+8. [Prerequisites](#prerequisites)
+9. [Curriculum Breakdown](#curriculum-breakdown)
+   - [Part 1: Deep Learning with PyTorch](#part-1-deep-learning-with-pytorch)
+   - [Part 2: Natural Language Processing with PyTorch](#part-2-natural-language-processing-with-pytorch)
+10. [References](#references)
 
 ## Course Overview
-Welcome to the Deep Learning Course at Arewa Data Science Academy! This comprehensive course is designed to introduce you to the world of deep learning, focusing on PyTorch, Natural Language Processing (NLP), and Computer Vision. Our curriculum combines in-depth theoretical concepts with practical application, equipping you with both the knowledge and skills needed in the field.
+Welcome to the Deep Learning Course at Arewa Data Science Academy! This comprehensive course introduces you to deep learning, focusing on PyTorch, Natural Language Processing (NLP), and Computer Vision. Combining in-depth theoretical concepts with practical application, it's tailored for beginners and those looking to enhance their knowledge in AI.
 
 ### Objectives:
-- Master the core principles of deep learning through PyTorch.
+- Master deep learning principles through PyTorch.
 - Gain hands-on experience in NLP and Computer Vision.
 - Develop a portfolio of real-world deep learning projects.
 
-### Target Audience:
-This course is tailored for beginners in deep learning and individuals aiming to pursue a career in AI or enhance their existing knowledge base.
+### Interested in Joining the Fellowship?
+Applications for Cohort 1.0 are closed, but you're welcome to join our sessions and access materials for self-study. Stay updated on future cohorts via our social media and Telegram group.
+
+### Contact & Community:
+- [Website](https://arewadatascience.github.io)
+- [Email](mailto:arewadatascience@gmail.com)
+- [Twitter](https://twitter.com/arewadatascience) | [Facebook](https://www.facebook.com/arewadatascience) | [LinkedIn](https://www.linkedin.com/company/arewadatascience) | [YouTube](https://www.youtube.com/@arewadatascienceacademy7195/videos) | [Telegram](https://t.me/+vGZvQdggp1A4NzNk)
+
+## Welcome to Cohort 1.0 ArewaDS Fellowship
+Welcome to ArewaDS Deep Learning with Pytorch Cohort 1.0! Our fellowship offers a structured path to mastering both fundamentals and advanced concepts in deep learning.
+
+### Fellowship Structure
+- **[Stage 1: Deep Learning with Pytorch](#part-1-deep-learning-with-pytorch)** - Fundamental and advanced topics in Deep Learning using PyTorch.
+- **[Stage 2: Natural Language Processing with Deep Learning](#part-2-natural-language-processing-with-pytorch)** - Advanced NLP techniques and applications.
+
+## Graduation Requirements
+To graduate, fellows must:
+- Complete all curriculum modules.
+- Submit all assignments and blog posts.
+- Maintain a 90% attendance rate.
+- Complete a capstone project approved by the ArewaDS Team.
+
+## Fellowship Kickoff
+Find below the resources for the kickoff of the fellowship.
+
+| Component                   | Resource                                                                                                                                                                                  |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Accepted Fellows            | [Accepted Fellows Page](https://arewadatascience.github.io/fellows-ml-2.html)                                                                                                            |
+| Mentor/Mentee Info          | [Mentor/Mentee Info](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/mentor_mentee.md)                                                                            |
+| Communication (Telegram)    | [Telegram Group Guide](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/telegram.md)                                                       |
+| Kickoff Recording           | [Kickoff Recording](https://www.youtube.com/watch?v=q6sQmF_nu6U)                                                                                                                         |
+| Kickoff Slides              | [Kickoff Slides](https://docs.google.com/presentation/d/e/2PACX-1vTz8P0kreFLhUhseaF-ipdN_iIi4AvWx8y_jVjRqrzhgt_zIKjWrqEOJf7q-RbP5dLIVrFCLZNwH8zt/pub?start=false&loop=false&delayms=3000) |
 
 ## Prerequisites
 - Basic Python programming skills.
@@ -18,33 +62,33 @@ This course is tailored for beginners in deep learning and individuals aiming to
 ## Curriculum Breakdown
 
 ### Part 1: Deep Learning with PyTorch
-Dive into deep learning fundamentals using PyTorch, a leading framework for deep learning applications.
+Explore deep learning fundamentals using PyTorch, a leading framework for deep learning.
 
 - **Resource**: [Deep Learning with PyTorch](https://github.com/mrdbourke/pytorch-deep-learning)
 - **Topics Covered**:
-  - Introduction to PyTorch
-  - Building Neural Networks
-  - CNNs, RNNs, and Beyond
+  - PyTorch Basics
+  - Neural Networks
+  - CNNs, RNNs
   - Advanced Topics: GANs, Reinforcement Learning
 - **Projects**:
-  - Image Classification Systems
-  - Sequence Generation Models
+  - Image Classification
+  - Sequence Generation
   - Reinforcement Learning in Gaming
 
 ### Part 2: Natural Language Processing with PyTorch
-Explore NLP techniques using PyTorch, guided by the renowned Stanford course, CS224N: Natural Language Processing with Deep Learning.
+Delve into NLP using PyTorch, guided by the Stanford course, CS224N.
 
 - **Resource**: [Stanford CS224N](https://web.stanford.edu/class/cs224n/)
 - **Topics Covered**:
-  - Text Processing Fundamentals
-  - Word Vectors and Embeddings
+  - Text Processing
+  - Word Vectors
   - Neural Networks for NLP
-  - Language Models and Transformers
-  - Applications: Sentiment Analysis, Machine Translation
+  - Language Models
+  - Applications in Sentiment Analysis and Machine Translation
 - **Projects**:
-  - Developing a Sentiment Analysis Model
-  - Building a Neural Machine Translation System
-  - Creating an NLP-powered Chatbot
+  - Sentiment Analysis Model
+  - Neural Machine Translation System
+  - Chatbot Development
 
 ### References
-- Deep Learning with PyTorch
+- [Deep Learning with PyTorch](https://github.com/mrdbourke/pytorch-deep-learning)
