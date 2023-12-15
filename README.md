@@ -56,7 +56,7 @@ Find below the resources for the kickoff of the fellowship.
 
 | Component                   | Resource                                                                                                                                                                                  |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Accepted Fellows            | [Accepted Fellows Page](https://arewadatascience.github.io/fellows-ml-2.html)                                                                                                            |                                                                          |
+| Accepted Fellows            | [Accepted Fellows Page](https://arewadatascience.github.io/fellows-dl-1.html)                                                                                                            |                                                                          |
 | Communication (Telegram)    | [Telegram Group Guide](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/telegram.md)                                                       |
 | Kickoff Recording           | [Kickoff Recording](https://www.youtube.com/watch?v=yjXAuYE7kKc&list=PLf4vs1mkrux2OQyidTpH5zw2qxhX1ZPVI&index=1)                                                                                                                        |
 | Kickoff Slides              | [Kickoff Slides](https://docs.google.com/presentation/d/1tHS8DK9MICM2MvbOzxpVm1lvSPn6-80L5r0maQNGTyg/edit?usp=sharing) |
