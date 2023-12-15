@@ -29,7 +29,7 @@ Welcome to the Deep Learning Course at Arewa Data Science Academy! This comprehe
 - Develop a portfolio of real-world deep learning projects.
 
 ### Interested in Joining the Fellowship?
-Applications for Cohort 1.0 are closed, but you're welcome to join our sessions and access materials for self-study. Stay updated on future cohorts via our social media and Telegram group.
+Application for Deep Learning Cohort 1.0 is closed, but you're welcome to join our sessions and access materials for self-study. Stay updated on future cohorts via our social media and Telegram group.
 
 ### Contact & Community:
 - Website: [Arewa Data Science Official Website](https://arewadatascience.github.io)
