@@ -5,18 +5,19 @@
 ArewaDS website: https://arewadatascience.github.io
 
 ## Table of Contents (Arewa DL)
-1. [Course Overview](#course-overview)
-2. [Objectives](#objectives)
-3. [Joining the Fellowship](#joining-the-fellowship)
-4. [Contact & Community](#contact--community)
-5. [Welcome to Cohort 1.0](#welcome-to-cohort-10)
-6. [Graduation Requirements](#graduation-requirements)
-7. [Fellowship Kickoff](#fellowship-kickoff)
-8. [Prerequisites](#prerequisites)
-9. [Curriculum Breakdown](#curriculum-breakdown)
-   - [Part 1: Deep Learning with PyTorch](#part-1-deep-learning-with-pytorch)
-   - [Part 2: Natural Language Processing with PyTorch](#part-2-natural-language-processing-with-pytorch)
-10. [References](#references)
+- [Arewa Deep Learning with Pytorch Curriculum!](#arewa-deep-learning-with-pytorch-curriculum)
+    - [Objectives:](#objectives)
+    - [Interested in Joining the Fellowship?](#interested-in-joining-the-fellowship)
+    - [Contact \& Community:](#contact--community)
+  - [Welcome to Cohort 1.0 ArewaDS Deep Learning with PyTorch Fellowship](#welcome-to-cohort-10-arewads-deep-learning-with-pytorch-fellowship)
+    - [Fellowship Structure](#fellowship-structure)
+  - [Graduation Requirements](#graduation-requirements)
+  - [Fellowship Kickoff](#fellowship-kickoff)
+  - [Prerequisites](#prerequisites)
+  - [Curriculum Breakdown](#curriculum-breakdown)
+    - [Part 1: Deep Learning with PyTorch](#part-1-deep-learning-with-pytorch)
+    - [Part 2: Natural Language Processing with PyTorch](#part-2-natural-language-processing-with-pytorch)
+    - [References](#references)
 
 #  Arewa Deep Learning with Pytorch Curriculum!
 
