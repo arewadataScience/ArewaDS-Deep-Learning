@@ -34,7 +34,7 @@ Application for Deep Learning Cohort 1.0 is closed, but you're welcome to join o
 ### Contact & Community:
 - Website: [Arewa Data Science Official Website](https://arewadatascience.github.io)
 - Email: [arewadatascience@gmail.com](mailto:arewadatascience@gmail.com)
-- [Twitter](https://twitter.com/arewadatascience) | [Facebook](https://www.facebook.com/arewadatascience) | [LinkedIn](https://www.linkedin.com/company/arewadatascience) | [YouTube](https://www.youtube.com/@arewadatascienceacademy7195/videos) | [Telegram](https://t.me/+vGZvQdggp1A4NzNk)
+- [Twitter](https://twitter.com/arewadatasc) | [Facebook](https://www.facebook.com/arewadatascience) | [LinkedIn](https://www.linkedin.com/company/arewadatascience) | [YouTube](https://www.youtube.com/@arewadatascienceacademy7195/videos) | [Telegram](https://t.me/+vGZvQdggp1A4NzNk)
 
 
 ## Welcome to Cohort 1.0 ArewaDS Deep Learning with PyTorch Fellowship
