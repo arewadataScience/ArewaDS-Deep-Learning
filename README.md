@@ -84,10 +84,10 @@ Explore deep learning fundamentals using PyTorch, a leading framework for deep l
 
 | Date | Lesson | Exercise | Recordings |
 |------|--------|----------|------------|
-| --- | Lesson 1: Introduction to PyTorch | [Exercise 1](https://github.com/arewadataScience/ArewaDS-Deep-Learning/blob/main/Part_1_Deep_Learning_with_Pytorch/week1/week_1_exercises.ipynb) | Recording 1: Introductory Video |
-| --- | Lesson 2: Building Neural Networks | [Exercise 2](https://github.com/arewadataScience/ArewaDS-Deep-Learning/tree/main/Part_1_Deep_Learning_with_Pytorch/week2) | Recording 2: Neural Networks Fundamentals |
-| --- | Lesson 3: Convolutional and Recurrent Neural Networks | [Exercise 3](#) | Recording 3: Deep Dive into CNNs and RNNs |
-| --- | Lesson 4: GANs and Reinforcement Learning | [Exercise 4](#) | Recording 4: Understanding Advanced Concepts |
+| --- |  | [Exercise 1](https://github.com/arewadataScience/ArewaDS-Deep-Learning/blob/main/Part_1_Deep_Learning_with_Pytorch/week1/week_1_exercises.ipynb) | Recording 1: Introductory Video |
+| --- |  | [Exercise 2](https://github.com/arewadataScience/ArewaDS-Deep-Learning/tree/main/Part_1_Deep_Learning_with_Pytorch/week2) | Recording 2: Neural Networks Fundamentals |
+| --- | |  | Recording 3: Deep Dive into CNNs and RNNs |
+| --- |  |  | Recording 4: Understanding Advanced Concepts |
 
 
 
