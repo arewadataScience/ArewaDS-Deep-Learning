@@ -83,8 +83,8 @@ Explore deep learning fundamentals using PyTorch, a leading framework for deep l
 |------|--------|----------|------------|
 | Week 0 |  Introduction  | | [Recording 1: Introductory Video](https://www.youtube.com/watch?v=yjXAuYE7kKc&t=621s) |
 | Week 1 | Pytorch Fundamentals  |  [Exercise 1](https://github.com/arewadataScience/ArewaDS-Deep-Learning/blob/main/Part_1_Deep_Learning_with_Pytorch/week1/week_1_exercises.ipynb) | [Recording 2:Pytorch Fundamentals](https://www.youtube.com/watch?v=rq7smEf9Sh4&t=1159s) |
-| --- | | [Exercise 2](https://github.com/arewadataScience/ArewaDS-Deep-Learning/tree/main/Part_1_Deep_Learning_with_Pytorch/week2) |  |
-| --- |  |  |  |
+| Week 2 | | [Exercise 2](https://github.com/arewadataScience/ArewaDS-Deep-Learning/tree/main/Part_1_Deep_Learning_with_Pytorch/week2) |  |
+| Week 3|  |  |  |
 
 
 
