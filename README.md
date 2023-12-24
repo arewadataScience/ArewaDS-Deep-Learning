@@ -82,12 +82,12 @@ Explore deep learning fundamentals using PyTorch, a leading framework for deep l
   - Reinforcement Learning in Gaming
 
 
-| Resource | Topics Covered | Projects | Lesson | Exercise | Recordings |
-|----------|----------------|----------|--------|----------|------------|
-| [Deep Learning with PyTorch](https://github.com/mrdbourke/pytorch-deep-learning) | PyTorch Basics | Image Classification | Lesson 1: Introduction to PyTorch | Exercise 1: Basic PyTorch Operations | Recording 1: Introductory Video | 
-| | Neural Networks | Sequence Generation | Lesson 2: Building Neural Networks | Exercise 2: Simple Neural Network | Recording 2: Neural Networks Fundamentals | 
-| | CNNs, RNNs | Reinforcement Learning in Gaming | Lesson 3: Convolutional and Recurrent Neural Networks | Exercise 3: Implementing a CNN and RNN | Recording 3: Deep Dive into CNNs and RNNs | 
-| | Advanced Topics: GANs, Reinforcement Learning | | Lesson 4: GANs and Reinforcement Learning | Exercise 4: Creating a GAN | Recording 4: Understanding Advanced Concepts | 
+| Resource | Topics Covered |  Lesson | Exercise | Recordings |
+|----------|----------------|--------|----------|------------|
+| [Deep Learning with PyTorch](https://github.com/mrdbourke/pytorch-deep-learning) | PyTorch Basics  | Lesson 1: Introduction to PyTorch | Exercise 1: Basic PyTorch Operations | Recording 1: Introductory Video | 
+| | Neural Networks | Lesson 2: Building Neural Networks | Exercise 2: Simple Neural Network | Recording 2: Neural Networks Fundamentals | 
+| | CNNs, RNNs  Lesson 3: Convolutional and Recurrent Neural Networks | Exercise 3: Implementing a CNN and RNN | Recording 3: Deep Dive into CNNs and RNNs | 
+| | Advanced Topics: GANs, Reinforcement Learning  | Lesson 4: GANs and Reinforcement Learning | Exercise 4: Creating a GAN | Recording 4: Understanding Advanced Concepts | 
 
 
 ### Part 2: Natural Language Processing with PyTorch
