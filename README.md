@@ -76,10 +76,7 @@ Explore deep learning fundamentals using PyTorch, a leading framework for deep l
   - Neural Networks
   - CNNs, RNNs
   - Advanced Topics: GANs, Reinforcement Learning
-- **Projects**:
-  - Image Classification
-  - Sequence Generation
-  - Reinforcement Learning in Gaming
+
 
 
 | Date | Lesson | Exercise | Recordings |
