@@ -84,9 +84,9 @@ Explore deep learning fundamentals using PyTorch, a leading framework for deep l
 | Week 0 |  Introduction  | | [Introductory Video](https://www.youtube.com/watch?v=yjXAuYE7kKc&t=621s) |
 | Week 1 | PyTorch Fundamentals  |  [Exercise 1](Part_1_Deep_Learning_with_Pytorch/week1/week_1_exercises.ipynb) | [Pytorch Fundamentals](https://www.youtube.com/watch?v=rq7smEf9Sh4&t=1159s) |
 | Week 2 | PyTorch Workflow| [Exercise 2](Part_1_Deep_Learning_with_Pytorch/week2/week_2_exercises.ipynb) | [PyTorch Workflow](https://youtu.be/vH3err_yIYE)<br>   [PyTorch Workflow - Q&A](https://youtu.be/3bIlcn5pw3c) |
-| Week 3| PyTorch Neural Network Classification |  [Exercise 3](Part_1_Deep_Learning_with_Pytorch/week2/week_3_exercises.ipynb)| [PyTorch Neural Network Classification](https://www.youtube.com/watch?v=s4qX_QJDUZA) <br> [PyTorch Neural Network Classification - Q&A](https://www.youtube.com/watch?v=s4qX_QJDUZA) |
-| Week 4| PyTorch Computer Vision | [Exercise 4](Part_1_Deep_Learning_with_Pytorch/week2/week_4_exercises.ipynb) |  |
-| Week 5|  PyTorch Custom Datasets<br>PyTorch Going Modular|  |  |
+| Week 3| PyTorch Neural Network Classification |  [Exercise 3](Part_1_Deep_Learning_with_Pytorch/week3/week_3_exercises.ipynb)| [PyTorch Neural Network Classification](https://www.youtube.com/watch?v=s4qX_QJDUZA) <br> [PyTorch Neural Network Classification - Q&A](https://www.youtube.com/watch?v=s4qX_QJDUZA) |
+| Week 4| PyTorch Computer Vision | [Exercise 4](Part_1_Deep_Learning_with_Pytorch/week4/week_4_exercises.ipynb) | [PyTorch Computer Vision](https://www.youtube.com/watch?v=emNtz9gJZbE) |
+| Week 5|  PyTorch Custom Datasets<br>PyTorch Going Modular| [Exercise 5](Part_1_Deep_Learning_with_Pytorch/week5/week_5_exercises.ipynb) |  |
 | Week 6  | PyTorch Transfer Learning  |   |   |
 | Week 7  |   |   |   |
 | Week 8  |   |   |   |
