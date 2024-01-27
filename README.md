@@ -87,9 +87,10 @@ Explore deep learning fundamentals using PyTorch, a leading framework for deep l
 | Week 3| PyTorch Neural Network Classification |  [Exercise 3](Part_1_Deep_Learning_with_Pytorch/week3/week_3_exercises.ipynb)| [PyTorch Neural Network Classification](https://www.youtube.com/watch?v=s4qX_QJDUZA) <br> [PyTorch Neural Network Classification - Q&A](https://www.youtube.com/watch?v=s4qX_QJDUZA) |
 | Week 4| PyTorch Computer Vision | [Exercise 4](Part_1_Deep_Learning_with_Pytorch/week4/week_4_exercises.ipynb) | [PyTorch Computer Vision](https://www.youtube.com/watch?v=emNtz9gJZbE) |
 | Week 5|  PyTorch Custom Datasets<br>PyTorch Going Modular| [Exercise 5](Part_1_Deep_Learning_with_Pytorch/week5/week_5_exercises.ipynb) | [PyTorch Custom Datasets<br>PyTorch Going Modular](https://www.youtube.com/watch?v=ZTIi_bBRLtc) |
-| Week 6  | PyTorch Transfer Learning  |   |   |
-| Week 7  |   |   |   |
-| Week 8  |   |   |   |
+| Week 6  | PyTorch Transfer Learning <br> PyTorch  Experiment Tracking|  [Capstone Project 1]() |   |
+| Week 7  | Feedback and Review  |  [Capstone Project 1 - Cont'd]() |   |
+| Week 8  | PyTorch Paper Replicating  |  [Capstone Project 2 (Group Project)]() |   |
+| Week 9  | PyTorch Model Deployment  |  [Capstone Project 2 (Group Project) - Cont'd]() |   |
 |   |   |   |   |
 
 
