@@ -87,7 +87,7 @@ Explore deep learning fundamentals using PyTorch, a leading framework for deep l
 | Week 3| PyTorch Neural Network Classification |  [Exercise 3](Part_1_Deep_Learning_with_Pytorch/week3/week_3_exercises.ipynb)| [PyTorch Neural Network Classification](https://www.youtube.com/watch?v=s4qX_QJDUZA) <br> [PyTorch Neural Network Classification - Q&A](https://www.youtube.com/watch?v=s4qX_QJDUZA) |
 | Week 4| PyTorch Computer Vision | [Exercise 4](Part_1_Deep_Learning_with_Pytorch/week4/week_4_exercises.ipynb) | [PyTorch Computer Vision](https://www.youtube.com/watch?v=emNtz9gJZbE) |
 | Week 5|  PyTorch Custom Datasets<br>PyTorch Going Modular| [Exercise 5](Part_1_Deep_Learning_with_Pytorch/week5/week_5_exercises.ipynb) | [PyTorch Custom Datasets<br>PyTorch Going Modular](https://www.youtube.com/watch?v=ZTIi_bBRLtc) |
-| Week 6  | PyTorch Transfer Learning|  |  [PyTorch Transfer Learning](https://www.youtube.com/watch?v=ZTIi_bBRLtc) |
+| Week 6  | PyTorch Transfer Learning|  |  [PyTorch Transfer Learning](https://www.youtube.com/watch?v=XMr6F9ukt9Q) |
 | Week 7  | PyTorch  Experiment Tracking <br> Capstone Project Introduction  |  [Capstone Project](Part_1_Deep_Learning_with_Pytorch/capstone_project/ArewaDS_Deep_Learning_Capstone_Project.pdf) | [PyTorch Experiment Tracking and Capstone Project ](https://www.youtube.com/watch?v=79aYWyecM-U)  |
 | Week 8  | PyTorch Paper Replicating  | [Capstone Project](Part_1_Deep_Learning_with_Pytorch/capstone_project/ArewaDS_Deep_Learning_Capstone_Project.pdf) |   |
 | Week 9  | PyTorch Model Deployment  | [Capstone Project](Part_1_Deep_Learning_with_Pytorch/capstone_project/ArewaDS_Deep_Learning_Capstone_Project.pdf) |   |
