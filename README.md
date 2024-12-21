@@ -94,20 +94,6 @@ Explore deep learning fundamentals using PyTorch, a leading framework for deep l
 |   |   |   |   |
 
 
-### Part 2: Natural Language Processing with PyTorch
-Delve into NLP using PyTorch, guided by the Stanford course, CS224N.
-
-- **Resource**: [Stanford CS224N](https://web.stanford.edu/class/cs224n/)
-- **Topics Covered**:
-  - Text Processing
-  - Word Vectors
-  - Neural Networks for NLP
-  - Language Models
-  - Applications in Sentiment Analysis and Machine Translation
-- **Projects**:
-  - Sentiment Analysis Model
-  - Neural Machine Translation System
-  - Chatbot Development
 
 ### References
 - [Deep Learning with PyTorch](https://github.com/mrdbourke/pytorch-deep-learning)
