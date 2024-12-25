@@ -9,7 +9,7 @@ ArewaDS website: https://arewadatascience.github.io
     - [Objectives:](#objectives)
     - [Interested in Joining the Fellowship?](#interested-in-joining-the-fellowship)
     - [Contact \& Community:](#contact--community)
-  - [Welcome to Cohort 1.0 ArewaDS Deep Learning with PyTorch Fellowship](#welcome-to-cohort-10-arewads-deep-learning-with-pytorch-fellowship)
+  - [Welcome to Cohort 2.0 ArewaDS Deep Learning with PyTorch Fellowship](#welcome-to-cohort-10-arewads-deep-learning-with-pytorch-fellowship)
     - [Fellowship Structure](#fellowship-structure)
   - [Graduation Requirements](#graduation-requirements)
   - [Fellowship Kickoff](#fellowship-kickoff)
@@ -29,7 +29,7 @@ Welcome to the Deep Learning Course at Arewa Data Science Academy! This comprehe
 - Develop a portfolio of real-world deep learning projects.
 
 ### Interested in Joining the Fellowship?
-Application for Deep Learning Cohort 1.0 is closed, but you're welcome to join our sessions and access materials for self-study. Stay updated on future cohorts via our social media and Telegram group.
+Application for Deep Learning Cohort 2.0 is closed, but you're welcome to join our sessions and access materials for self-study. Stay updated on future cohorts via our social media and Telegram group.
 
 ### Contact & Community:
 - Website: [Arewa Data Science Official Website](https://arewadatascience.github.io)
@@ -82,19 +82,20 @@ Explore deep learning fundamentals using PyTorch, a leading framework for deep l
 | Date | Lesson | Exercise | Recordings |
 |------|--------|----------|------------|
 | Week 0 |  Introduction  | | [Introductory Video](https://www.youtube.com/watch?v=yjXAuYE7kKc&t=621s) |
-| Week 1 | PyTorch Fundamentals  |  [Exercise 1](Part_1_Deep_Learning_with_Pytorch/week1/week_1_exercises.ipynb) | [Pytorch Fundamentals](https://www.youtube.com/watch?v=rq7smEf9Sh4&t=1159s) |
-| Week 2 | PyTorch Workflow| [Exercise 2](Part_1_Deep_Learning_with_Pytorch/week2/week_2_exercises.ipynb) | [PyTorch Workflow](https://youtu.be/vH3err_yIYE)<br>   [PyTorch Workflow - Q&A](https://youtu.be/3bIlcn5pw3c) |
-| Week 3| PyTorch Neural Network Classification |  [Exercise 3](Part_1_Deep_Learning_with_Pytorch/week3/week_3_exercises.ipynb)| [PyTorch Neural Network Classification](https://www.youtube.com/watch?v=s4qX_QJDUZA) <br> [PyTorch Neural Network Classification - Q&A](https://www.youtube.com/watch?v=s4qX_QJDUZA) |
-| Week 4| PyTorch Computer Vision | [Exercise 4](Part_1_Deep_Learning_with_Pytorch/week4/week_4_exercises.ipynb) | [PyTorch Computer Vision](https://www.youtube.com/watch?v=emNtz9gJZbE) |
-| Week 5|  PyTorch Custom Datasets<br>PyTorch Going Modular| [Exercise 5](Part_1_Deep_Learning_with_Pytorch/week5/week_5_exercises.ipynb) | [PyTorch Custom Datasets<br>PyTorch Going Modular](https://www.youtube.com/watch?v=ZTIi_bBRLtc) |
-| Week 6  | PyTorch Transfer Learning|  |  [PyTorch Transfer Learning](https://www.youtube.com/watch?v=XMr6F9ukt9Q) |
-| Week 7  | PyTorch  Experiment Tracking <br> Capstone Project Introduction  |  [Capstone Project](Part_1_Deep_Learning_with_Pytorch/capstone_project/ArewaDS_Deep_Learning_Capstone_Project.pdf) | [PyTorch Experiment Tracking and Capstone Project ](https://www.youtube.com/watch?v=79aYWyecM-U)  |
-| Week 8  | PyTorch Paper Replicating  | [Capstone Project](Part_1_Deep_Learning_with_Pytorch/capstone_project/ArewaDS_Deep_Learning_Capstone_Project.pdf) |   |
-| Week 9  | PyTorch Model Deployment  | [Capstone Project](Part_1_Deep_Learning_with_Pytorch/capstone_project/ArewaDS_Deep_Learning_Capstone_Project.pdf) |   |
+| Week 1 | PyTorch Fundamentals  |  [Exercise 1]() | [Pytorch Fundamentals]() |
+| Week 2 | PyTorch Workflow| [Exercise 2]() | [PyTorch Workflow]() |
+| Week 3| PyTorch Neural Network Classification |  [Exercise 3](Part_1_Deep_Learning_with_Pytorch/week3/week_3_exercises.ipynb)| [PyTorch Neural Network Classification]() |
+| Week 4| PyTorch Computer Vision | [Exercise 4](Part_1_Deep_Learning_with_Pytorch/week4/week_4_exercises.ipynb) | [PyTorch Computer Vision]() |
+| Week 5|  PyTorch Custom Datasets<br>PyTorch Going Modular| [Exercise 5](Part_1_Deep_Learning_with_Pytorch/week5/week_5_exercises.ipynb) | [PyTorch Custom Datasets<br>PyTorch Going Modular]() |
+| Week 6  | PyTorch Transfer Learning|  |  [PyTorch Transfer Learning]() |
+| Week 7  | PyTorch  Experiment Tracking <br> Capstone Project Introduction  |  [Capstone Project](Part_1_Deep_Learning_with_Pytorch/capstone_project/ArewaDS_Deep_Learning_Capstone_Project.pdf) | [PyTorch Experiment Tracking and Capstone Project ]()  |
+| Week 8  | PyTorch Paper Replicating  | [Capstone Project]() |   |
+| Week 9  | PyTorch Model Deployment  | [Capstone Project]() |   |
 |   |   |   |   |
 
 
 
 ### References
 - [Deep Learning with PyTorch](https://github.com/mrdbourke/pytorch-deep-learning)
+- [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
 - [Understanding Deep Learning by Simon Prince](https://www.youtube.com/watch?v=ZTIi_bBRLtc)
