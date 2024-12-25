@@ -19,7 +19,7 @@ ArewaDS website: https://arewadatascience.github.io
     - [Part 2: Natural Language Processing with PyTorch](#part-2-natural-language-processing-with-pytorch)
     - [References](#references)
 
-#  Arewa Deep Learning with Pytorch Curriculum!
+#  Arewa Deep Learning with PyTorch Curriculum!
 
 Welcome to the Deep Learning Course at Arewa Data Science Academy! This comprehensive course introduces you to deep learning, focusing on PyTorch, Natural Language Processing (NLP), and Computer Vision. Combining in-depth theoretical concepts with practical application, it's tailored for beginners and those looking to enhance their knowledge in AI.
 
@@ -37,8 +37,8 @@ Application for Deep Learning Cohort 1.0 is closed, but you're welcome to join o
 - [Twitter](https://twitter.com/arewadatasc) | [Facebook](https://www.facebook.com/arewadatascience) | [LinkedIn](https://www.linkedin.com/company/arewadatascience) | [YouTube](https://www.youtube.com/@arewadatascienceacademy7195/videos) | [Telegram](https://t.me/+vGZvQdggp1A4NzNk)
 
 
-## Welcome to Cohort 1.0 ArewaDS Deep Learning with PyTorch Fellowship
-Welcome to ArewaDS Deep Learning with Pytorch Cohort 1.0! Our fellowship offers a structured path to mastering both fundamentals and advanced concepts in deep learning.
+## Welcome to Cohort 2.0 ArewaDS Deep Learning with PyTorch Fellowship
+Welcome to ArewaDS Deep Learning with Pytorch Cohort 2.0! Our fellowship offers a structured path to mastering both fundamentals and advanced concepts in deep learning.
 
 ### Fellowship Structure
 - **[Stage 1: Deep Learning with Pytorch](#part-1-deep-learning-with-pytorch)** - Fundamental and advanced topics in Deep Learning using PyTorch.
