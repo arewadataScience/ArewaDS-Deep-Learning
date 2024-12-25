@@ -1,7 +1,7 @@
 <p align="center">
 <img src="assets/arewadsimage.png">
 </p>
-
+[OLD] Cohort1 Repository
 ArewaDS website: https://arewadatascience.github.io
 
 ## Table of Contents (Arewa DL)
